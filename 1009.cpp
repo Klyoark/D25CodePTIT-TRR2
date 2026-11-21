@@ -11,7 +11,7 @@ constexpr int MOD = 1e9 + 7;
 
 int main() {
     fastio;
-    freopen("DT.INP", "r", stdin); freopen("DT.OUT", "w", stdout);
+    //freopen("DT.INP", "r", stdin); freopen("DT.OUT", "w", stdout);
     int t, n, m;
     cin >> t >> n;
     vector<int> adj[n + 1];
